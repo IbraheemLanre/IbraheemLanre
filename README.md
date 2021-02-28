@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN STACK/EVERYTHING
 - 🌱 I’ve learned JAVA & PYTHON
 - 👯 I’m looking to collaborate on SOFTWARE SOLUTIONS
-- 🤔 I’m looking for help with BECOMING A GEM IN THE INDUSTRY
+- 🤔 I am working towards BECOMING A GEM IN THE INDUSTRY
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: talk2lanre205@yahoo.com
 - 😄 Pronouns: HE
