@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on A FULL STACK WEB DEVELOPER TRAINING PROGRAM
-- 🌱 I’m currently learning MERN STACK/EVERYTHING
+- 🔭 I’m currently working on A FULL STACK WEB DEVELOPER TRAINING PROGRAM 
+- 🌱 I’m currently learning MERN STACK, READY TO WORK AS A JUNIOR DEVELOPER
 - 🌱 I’ve learned JAVA & PYTHON
 - 👯 I’m looking to collaborate on SOFTWARE SOLUTIONS
 - 🤔 I am working towards BECOMING A GEM IN THE INDUSTRY
