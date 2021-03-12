@@ -7,4 +7,4 @@
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: talk2lanre205@yahoo.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: My most embarrassing moment was sleeping on a movie date😄!
+- ⚡ Fun fact: Most embarrassing moment was sleeping on a movie date😄!
