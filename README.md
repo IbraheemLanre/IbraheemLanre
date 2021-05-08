@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently in A FULL STACK WEB DEVELOPER TRAINING PROGRAM 
 - 🌱 I’m currently learning MERN STACK, READY TO WORK AS A JUNIOR DEVELOPER
-- 🌱 I’ve learned JAVA & PYTHON
+- 🌱 I’ve learned JAVA, PYTHON & DATA SCIENCE, CLOUD COMPUTING
 - 👯 I’m looking to collaborate on SOFTWARE SOLUTIONS
 - 🤔 I am working towards BECOMING A GEM IN THE INDUSTRY
 - 💬 Ask me about ANYTHING
