@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I recently completed a FULL STACK WEB DEVELOPER TRAINING PROGRAM 
 - 🌱 I’m READY TO WORK AS A JUNIOR DEVELOPER
 - 🌱 I’ve learned JAVA & JAVAFX, LAMP & MERN STACK, PYTHON & DATA SCIENCE, CLOUD COMPUTING
 - 👯 I’m looking to collaborate on SOFTWARE SOLUTIONS
