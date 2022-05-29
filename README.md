@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m READY TO WORK AS A DEVELOPER
-- 🌱 I’ve learned JAVA, Springboot & JAVAFX & MERN STACK, PYTHON & DATA SCIENCE, CLOUD COMPUTING
+- 🌱 I’ve learned FULLSTACK (REACT AND NODE), CLOUD COMPUTING,JAVA
 - 👯 I’m looking to collaborate on SOFTWARE SOLUTIONS
 - 🤔 I am working towards BECOMING A GEM IN THE INDUSTRY
 - 💬 Ask me about ANYTHING
